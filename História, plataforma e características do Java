@@ -6,14 +6,13 @@ Desde o seu lançamento **Java** foi adotada mais rapidamente do que qualquer ou
 
 ## Características do Java 
 
- - A linguagem java é compilada para um bytecode que é interpretado por uma maquina vitual (JVM)
+ - A linguagem **Java** é compilada para um bytecode (.class( que é interpretado por uma maquina virtual (JVM).
  
  ## Plataforma x Linguagem 
 
   - A linguagem de programação Java é a linguagem convencioanl da Plataforma Java, mas não é sua única linguagem. 
   - Uma grande vantagem da plataforma é a de não estar presa a um único sistema operacional ou hardware, pois seus programas rodam através de uma máquina virtual que poder ser emulada.
 
-  **Escreva uma vez e execute em qualquer lugar**
 
 ## Edições da Plataforma 
 
@@ -33,10 +32,17 @@ Desde o seu lançamento **Java** foi adotada mais rapidamente do que qualquer ou
 
  1. Escrevemos o código fonte. 
  2. Utilizamos JDK para compilar o codigo-fonte e gerar o arquivo bytecode (arquivo com a extensão .class)
- 3. Para executar o seu programa, a JVM lê o arquiv compilado (.class) e as bibliotecas do Java que estão no JRE. 
+ 3. Para executar o seu programa, a JVM lê o arquivo compilado (.class) e as bibliotecas do Java que estão no JRE. 
 
  ## JDK x JRE
 
- **JDK - Java Development Kit** - é o kit de Desenvolvimento Java responvável por complicar código-fonte (.java) em bytecode.
+ **JDK - Java Development Kit** - é o kit de Desenvolvimento Java responvável por complicar código-fonte (.java) em bytecode (.class)
 
  **JVM - Java Virtual Machine** - é a Máquina Virtua do Java responvável por executar o bytecode (.class) 
+
+ **JRE - Java Runtime Environmente** - é o ambiente de execução Java que fornece bibliotecas padrões do Java para o JDK compilar o seu código e para a JVM executar o seu programa. 
+ 
+ ## IDE //  Ambiente de desenvolvimento integrado. 
+ 
+- Software que combina ferramentas comuns de desenvolvimento em uma únca interface gráfica do usuário (GUI). 
+
