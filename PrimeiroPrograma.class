@@ -1,0 +1,12 @@
+package Dio;
+
+public class PrimeiroPrograma {
+
+	public static void main(String[] args) {
+		int anonasc = 1997;
+		int anoatual = 2023;
+		System.out.println("Hello, world! My name is Ana Cristina. This is my first program in Java. " + ("I'm from Brazil and i'm ") + (anoatual - anonasc) + (" years old."));
+		}
+
+}
+ 
